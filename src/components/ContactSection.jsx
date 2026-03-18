@@ -163,7 +163,7 @@ export const ContactSection = () => {
                 </label>
                 <textarea
                   id="message"
-                  name="message"
+                  name="from_message"
                   required
                   rows={5}
                   className="w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-none focus:ring-2 focus:ring-primary resize-none"
