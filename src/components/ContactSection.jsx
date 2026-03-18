@@ -114,7 +114,7 @@ export const ContactSection = () => {
                   <Mail className="h-5 w-5 text-primary" />
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/your-profile"
+                  href="https://www.linkedin.com/in/benjamin-r-6a4233114/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 rounded-full bg-primary/10 hover:bg-primary/20 transition-colors"
