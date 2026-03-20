@@ -37,7 +37,7 @@ export const AboutSection = () => {
 
               <a
                 href="/Benjamin_Robinson_Resume.pdf"
-                download="Benjamin_Robinson_Resume.pdf"
+                download="Benjamin_Job_Resume.pdf"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
                 Download CV
