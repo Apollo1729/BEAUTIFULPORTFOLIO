@@ -8,7 +8,7 @@ const projects = [
     image: "/projects/ecommerce.png",
     tags: ["React", "Typescript", "redis","TailwindCSS", "MongoDb", "clerk-auth"],
     demoUrl: "https://ecommerce-store-sk9v.onrender.com",
-    githubUrl: "https://git@github.com:Apollo1729/ecommerce-store.git",
+    githubUrl: "https://github.com/Apollo1729/ecommerce-store.git",
   },
   {
     id: 2,
