@@ -8,7 +8,7 @@ const projects = [
     image: "/projects/ecommerce.png",
     tags: ["React", "Typescript", "redis","TailwindCSS", "MongoDb", "clerk-auth"],
     demoUrl: "https://ecommerce-store-sk9v.onrender.com",
-    githubUrl: "git@github.com:Apollo1729/ecommerce-store.git",
+    githubUrl: "https://git@github.com:Apollo1729/ecommerce-store.git",
   },
   {
     id: 2,
@@ -18,7 +18,7 @@ const projects = [
     image: "/projects/signalist.png",
     tags: ["TypeScript", "MongoDb", "Next.js", "Inngest", "NodeMailer"],
     demoUrl: "https://signalist-stock-app-delta.vercel.app/",
-    githubUrl: "git@github.com:Apollo1729/signalistStockApp.git",
+    githubUrl: "https://github.com/Apollo1729/signalistStockApp.git",
   },
   
 ];
